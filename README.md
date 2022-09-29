@@ -1,3 +1,2 @@
 # TSofyz
-example
-hello world!
+empty
