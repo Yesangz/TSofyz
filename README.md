@@ -1,4 +1,4 @@
 # TSofyz
-Hi,im programing lover and still learing.
+Hi,im programing lover.
 undergraduate.
 happ to share knowledge with you
